@@ -3,4 +3,11 @@ scanner1
 scanner2
 scanner3
 scanner4
+scanner1.exe
+scanner2.exe
+scanner3.exe
+scanner4.exe
+*.yml
+*.json
 *.o
+

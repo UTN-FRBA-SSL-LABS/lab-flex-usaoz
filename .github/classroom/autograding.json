@@ -1,6 +1,6 @@
 {
   "tests": [
-    {
+     {
       "name": "E1. scanner1.l compila",
       "setup": "apt-get install -y flex gcc > /dev/null 2>&1 || true",
       "run": "cd ejercicio1 && flex scanner1.l && gcc lex.yy.c -o scanner1",
